@@ -1,4 +1,4 @@
-# Udacity_Deepearning-_Pytorch_script-_generating-_lstm
+# Deepearning Pytorch Script Generating Lstm
  ## A movie script  generating Ai that can generate movies and  roles
 ## Tools
 - Pytorch
